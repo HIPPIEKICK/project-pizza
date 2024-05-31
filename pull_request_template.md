@@ -1,16 +1,10 @@
-If you worked together with someone in this project, please find the names below and check the boxes:
+## Netlify link
+Add your Netlify link here like this (update with the correct one):
 
-<details>
-<summary>Snowflake team</summary>
-<br>
-  
-- [ ] JennieDalgren
-- [ ] HIPPIEKICK
-</details>
+https://my-netlify-link.netlify.app
 
-<details>
-<summary>Another team</summary>
-<br>
-- [ ] Another-user
-- [ ] Another-user-2
-</details>
+PS. Don't forget to add it in your readme as well.
+
+## Collaborators
+Add your collaborators here. Write their GitHub usernames in square brackets. If there's more than one, separate them with a comma, like this:
+[github-username-1, github-username-2]
